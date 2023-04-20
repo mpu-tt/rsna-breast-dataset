@@ -11,7 +11,7 @@
 
 |分类统计|分类统计|
 |:-:|:-:|
-|<img src="./images/normal_cancer.png" width = "400" align=center />|<img src="./images/cancer_count.png" width = "400" align=center />|
+|<img src="./images/normal_cancer.png" width = "300" align=center />|<img src="./images/cancer_count.png" width = "400" align=center />|
 
 ## 资源
 

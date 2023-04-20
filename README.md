@@ -1,6 +1,6 @@
 ## 简介
 
-乳腺疾病检测一直是一个很值得研究的课题，[RSNA 2023乳腺疾病分类竞赛](https://www.kaggle.com/competitions/rsna-breast-cancer-detection) 为我们提供了丰富的乳腺图像和EHR数据信息，然而这些图像是需要进行处理的，本repo旨在构建分类、检测、分割全方位的RSNA数据使用格式。
+乳腺疾病检测一直是一个很有研究意义的课题，[RSNA 2023乳腺疾病分类竞赛](https://www.kaggle.com/competitions/rsna-breast-cancer-detection) 为我们提供了丰富的乳腺图像和EHR数据信息，然而这些图像是需要进行处理的，本repo旨在构建分类、检测、分割全方位的RSNA数据使用格式。
 
 ## 开发
 
